@@ -7,3 +7,6 @@
 - http://linuxcommand.org/lc3_learning_the_shell.php
 - http://linuxcommand.org/lc3_writing_shell_scripts.php
 - Both of the above as a book/pdf: https://github.com/bchcohenlab/computing-tutorials/blob/master/TLCL-19.01.pdf
+
+### A good introduction to python and pandas (think of this as an alternative to excel):
+- https://www.edx.org/course/introduction-to-python-for-data-science-2
