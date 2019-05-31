@@ -1,4 +1,4 @@
-# List of quick tutorials for specific computing tasks
+# List of quick tutorials for scientific computing
 
 ### Learn to use Markdown to make 'modern' text files (10 minutes):
 - https://commonmark.org/help/tutorial/
