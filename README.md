@@ -10,3 +10,9 @@
 
 ### A good introduction to python and pandas (think of this as an alternative to excel):
 - https://www.edx.org/course/introduction-to-python-for-data-science-2
+
+### A good introduction to R (think of this as an alternative to SPSS/STATA):
+- https://www.edx.org/course/introduction-to-r-for-data-science-2
+
+### And now Jupyter Notebooks, a great way to organize your python, matlab, and R code:
+- https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook
