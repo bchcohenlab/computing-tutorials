@@ -16,3 +16,6 @@
 
 ### And now Jupyter Notebooks, a great way to organize your python, matlab, and R code:
 - https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook
+
+### Then add Git, the modern way to keep track of versions of your code and share files as well:
+- https://guides.github.com/
