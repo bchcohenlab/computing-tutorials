@@ -6,7 +6,7 @@
 ### 'Everything' you need to know about the 'command line' and writing shell scripts (~1 hour each):
 - http://linuxcommand.org/lc3_learning_the_shell.php
 - http://linuxcommand.org/lc3_writing_shell_scripts.php
-- Both of the above as a book/pdf: http://linuxcommand.org/tlcl.php
+ - Both of the above as a book/pdf: http://linuxcommand.org/tlcl.php
 
 ### A good introduction to python and pandas (think of this as an alternative to excel):
 - https://www.edx.org/course/introduction-to-python-for-data-science-2
@@ -22,13 +22,12 @@
 
 
 
-#### Will combine these nicely later:
-
-https://software-carpentry.org/lessons/index.html
-http://swcarpentry.github.io/good-enough-practices-in-scientific-computing/
-(after Best Practices article): https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001745
-https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004947
-http://swcarpentry.github.io/git-novice/
-https://guides.github.com/introduction/flow/
-https://hbctraining.github.io/Training-modules/
-https://realpython.com/documenting-python-code/
+### Good Articles to Read:
+- https://software-carpentry.org/lessons/index.html
+- http://swcarpentry.github.io/good-enough-practices-in-scientific-computing/
+  - (after Best Practices article): https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001745
+- https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004947
+- http://swcarpentry.github.io/git-novice/
+- https://guides.github.com/introduction/flow/
+- https://hbctraining.github.io/Training-modules/
+- https://realpython.com/documenting-python-code/
