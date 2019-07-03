@@ -19,3 +19,16 @@
 
 ### Then add Git, the modern way to keep track of versions of your code and share files as well:
 - https://guides.github.com/
+
+
+
+#### Will combine these nicely later:
+
+https://software-carpentry.org/lessons/index.html
+http://swcarpentry.github.io/good-enough-practices-in-scientific-computing/
+(after Best Practices article): https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001745
+https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004947
+http://swcarpentry.github.io/git-novice/
+https://guides.github.com/introduction/flow/
+https://hbctraining.github.io/Training-modules/
+https://realpython.com/documenting-python-code/
