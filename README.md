@@ -9,7 +9,7 @@
  - Both of the above as a book/pdf: http://linuxcommand.org/tlcl.php
 
 ### A good introduction to python and pandas (think of this as an alternative to excel):
-- https://www.edx.org/course/introduction-to-python-for-data-science-2
+- https://www.edx.org/course/introduction-to-python-for-data-science-2 (needs a replacement, this now costs money to use the labs
 
 ### A good introduction to R (think of this as an alternative to SPSS/STATA):
 - https://www.edx.org/course/introduction-to-r-for-data-science-2
