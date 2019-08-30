@@ -32,3 +32,4 @@
 - https://guides.github.com/introduction/flow/
 - https://hbctraining.github.io/Training-modules/
 - https://realpython.com/documenting-python-code/
+- http://statsthinking21.org/
