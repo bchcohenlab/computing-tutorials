@@ -13,6 +13,7 @@
 - (Many Python books, take your pick) https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md#python
 
 ### A good introduction to R (think of this as an alternative to SPSS/STATA):
+- https://psyteachr.github.io/msc-data-skills/
 - https://www.edx.org/course/introduction-to-r-for-data-science-2
 
 ### And now Jupyter Notebooks, a great way to organize your python, matlab, and R code:
